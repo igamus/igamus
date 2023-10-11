@@ -21,6 +21,7 @@ const isaac = {
     first: "isaac",
     last: "gamus",
   },
+  email: "isaacgamusdev@gmail.com",
   location: {
     city: "edison",
     state: "new jersey",
