@@ -13,7 +13,39 @@
 <div align="right">
   <img src="https://skillicons.dev/icons?i=react,redux,flask,sequelize alt="skills" />
 </div>
-  
+
+## About Me 👨‍💼
+```js
+const isaac = {
+  name: {
+    first: "isaac",
+    last: "gamus",
+  },
+  location: {
+    city: "edison",
+    state: "new jersey",
+    country: "united states of america"
+  },
+  age: 28,
+  education: [
+    {
+      institution: "Arizona State University",
+      credentialEarned: "B.S. Biochemistry",
+      yearGraduated: 2018,
+    }, {
+      institution: "App Academy",
+      credentialEarned: "Software Engineering (Full Stack Web Dev) Certificate",
+      yearGraduated: 2023
+    }],
+  languages: ["javascript", "python"],
+  favoriteIDE: "Microsoft Word" // See https://www.youtube.com/watch?v=X34ZmkeZDos&pp=ygUNbWljcm9zb2Z0IGlkZQ%3D%3D
+}
+```
+
+## Resume 📰
+
+Coming soon! (probably with social media, too)
+
 ## :eyes: Look at these projects!
 
 [![ChairDevotee](https://github-readme-stats.vercel.app/api/pin/?username=igamus&repo=chairdevotee&theme=shadow_red)](https://github.com/igamus/chairdevotee) [![Sonic](https://github-readme-stats.vercel.app/api/pin/?username=igamus&repo=sonic&theme=shadow_red)](https://github.com/igamus/sonic) [![LearnFromMe](https://github-readme-stats.vercel.app/api/pin/?username=igamus&repo=learnfromme&theme=shadow_red)](https://github.com/igamus/learnfromme)
@@ -104,17 +136,7 @@
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render badge" />
 </details>
 
-## About Me 👨‍💼
-```js
-const isaac = {
-  favoriteIDE: "Microsoft Word" // See https://www.youtube.com/watch?v=X34ZmkeZDos&pp=ygUNbWljcm9zb2Z0IGlkZQ%3D%3D
-}
-```
-
-## Hey, bud... you like... jokes? 🤡
+## Hey... you like... jokes? 🤡
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=shadow_red)
 
-## Resume 📰
-
-Coming soon! (probably with social media, too)
