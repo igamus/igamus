@@ -22,6 +22,7 @@ const isaac = {
     last: "gamus",
   },
   email: "isaacgamusdev@gmail.com",
+  site: "https://igamus.github.io/",
   location: {
     city: "edison",
     state: "new jersey",
